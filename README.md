@@ -1,7 +1,11 @@
 Project name: Note taking application
+
 Author: Abhijeet Yaduwanshi
+
 Project for: Web site app development course.
+
 Skills used: PHP, File system(data serialization and unserialization), HTML- 5, CSS and Bootstrap.
+
 
 The Notes taking application is a Php crud application(4 operations to perform i.e. Create, Read/View, Edit/Update, Delete) with data serialization and unserialization in a file system.
 With notes taking application (an individual or a team) can take notes for personal or professional use, in which we can save notes subject, author, body and priority of a note.
