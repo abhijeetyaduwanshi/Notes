@@ -62,3 +62,5 @@ Steps to test the assignment:
 6. To view the details of the note click the view button in the row for that note.
 7. To edit the note click edit button on the view page, once done editing save the edited note.
 8. To delete the note click delete button on the view page, accept the confirmation and proceed.
+
+The pictures of the working project are in the Project pictures.docs file.
